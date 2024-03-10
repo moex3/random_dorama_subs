@@ -1,0 +1,984 @@
+﻿1
+00:00:24,700 --> 00:00:30,550
+This is a gate.
+
+2
+00:00:40,510 --> 00:00:42,550
+That is the Gate of Destruction.
+
+3
+00:00:55,790 --> 00:00:57,470
+Is this really that?
+
+4
+00:01:03,660 --> 00:01:05,040
+That can't be true.
+
+5
+00:01:10,730 --> 00:01:12,040
+GODOU!
+
+6
+00:01:17,730 --> 00:01:18,430
+SOUMA.
+
+7
+00:01:31,550 --> 00:01:34,820
+The original author is KEITA AMAMIYA.
+
+8
+00:01:39,430 --> 00:01:40,900
+This production and production is TOHO SHINSHA.
+
+9
+00:01:42,200 --> 00:01:43,420
+The executive producer is KIYOTAKA NINOMIYA.
+
+10
+00:01:44,640 --> 00:01:49,980
+GARO：Heir To Steel Armor.
+
+11
+00:01:49,980 --> 00:01:52,850
+He is WATARU KURIYAMA.
+
+12
+00:01:52,850 --> 00:01:55,470
+He is ON NAKANO.
+
+13
+00:01:55,470 --> 00:01:58,080
+She is MIKO NAKAZAWA.
+
+14
+00:01:58,230 --> 00:02:00,780
+She is YUKA KUROTANI.
+
+15
+00:02:01,070 --> 00:02:03,180
+He is MASATO HAGIWARA.
+
+16
+00:02:03,620 --> 00:02:04,910
+That is HIRONOBU KAGEYAMA.
+
+17
+00:02:06,620 --> 00:02:08,760
+They are KENTEZ ASAKA, AKIHIRO YAMAMOTO, and SYUN NISHIME.
+
+18
+00:02:08,759 --> 00:02:09,919
+The plan and producer is Tanaka Aya.
+
+19
+00:02:09,919 --> 00:02:11,029
+The producers are Higa Ichiro and SYUHEI OKABAYASHI.
+
+20
+00:02:11,620 --> 00:02:13,620
+The script was written by YOSHIKATSU KODAMA, and the script was assisted by YOSHIKATSU KIMURA.
+
+21
+00:02:14,280 --> 00:02:15,620
+The opening song is GARO：Heir To Steel Armor WITH JAM PROJECT.
+
+22
+00:02:15,620 --> 00:02:16,900
+Composed and arranged by YUKI KAJIURA.
+
+23
+00:02:16,900 --> 00:02:17,640
+The music producer is SYUNJI INOUE.
+
+24
+00:02:17,640 --> 00:02:18,910
+They are YOSHICHIKA KURIYAMA and SHIHO TERADA.
+
+25
+00:02:19,640 --> 00:02:21,640
+They are cinematography, lighting, sound recording, art, editing, and VFX supervisors.
+
+26
+00:02:21,640 --> 00:02:22,640
+The costumes were made by YOU-KO, and the magic tools and magic swords were made by NOBORU KAWAKAMI.
+
+27
+00:02:22,640 --> 00:02:24,150
+Special modeling is by AKITERU NAKATA, and HORROR design is supervised by JIRO.
+
+28
+00:02:24,150 --> 00:02:26,640
+The action director is MASAKI SUGIMURA.
+
+29
+00:02:27,640 --> 00:02:31,000
+The director is YOSHIKATSU KIMURA.
+
+30
+00:02:38,360 --> 00:02:39,910
+Did MUTSUGI make us come here on purpose?
+
+31
+00:02:41,310 --> 00:02:42,620
+It was just a moment.
+
+32
+00:02:43,580 --> 00:02:45,540
+I saw it.
+
+33
+00:02:55,850 --> 00:02:57,680
+What is this?
+
+34
+00:02:58,200 --> 00:03:00,640
+This is the entrance to the Gate of Destruction.
+
+35
+00:03:00,880 --> 00:03:03,750
+let's go.
+
+36
+00:03:15,260 --> 00:03:16,580
+What is it for?
+
+37
+00:03:18,610 --> 00:03:19,740
+I don't understand that either.
+
+38
+00:03:21,550 --> 00:03:24,320
+I have something to worry about.
+
+39
+00:03:26,870 --> 00:03:28,910
+That was when RYUGA and SOUMA were sent flying in the beginning.
+
+40
+00:03:30,220 --> 00:03:32,570
+MUTSUGI seemed to know where SOUMA was going.
+
+41
+00:03:33,150 --> 00:03:35,840
+He followed the magic circle and found them.
+
+42
+00:03:39,230 --> 00:03:40,830
+Maybe that's the case.
+
+43
+00:03:43,070 --> 00:03:46,420
+When I fought the horde of HORROR, I heard GODOU's voice.
+
+44
+00:03:54,400 --> 00:03:55,490
+I finally understood it.
+
+45
+00:03:56,550 --> 00:03:58,990
+It is the night of dawn that comes once every three years.
+
+46
+00:03:58,990 --> 00:04:00,420
+This is the first step towards opening that path.
+
+47
+00:04:01,830 --> 00:04:04,320
+I'm going to the One-Eyed Forest.
+
+48
+00:04:06,800 --> 00:04:09,510
+GODOU had told someone that he was going to the One-Eyed Forest.
+
+49
+00:04:11,250 --> 00:04:12,550
+That was 3 years ago.
+
+50
+00:04:13,720 --> 00:04:16,220
+GODOU probably came here with MUTSUGI.
+
+51
+00:04:20,089 --> 00:04:21,699
+What is MUTSUGI's purpose?
+
+52
+00:04:21,700 --> 00:04:23,180
+let us hurry.
+
+53
+00:04:42,820 --> 00:04:45,450
+SOUMA, you don't have to resist.
+
+54
+00:04:46,330 --> 00:04:48,000
+Surrender yourself to darkness.
+
+55
+00:04:57,310 --> 00:04:58,820
+why did you do this?
+
+56
+00:05:00,820 --> 00:05:02,210
+Of course it's for justice.
+
+57
+00:05:04,510 --> 00:05:08,770
+All we need is for you to undo ZANGO's armor.
+
+58
+00:05:14,020 --> 00:05:15,780
+My wish will come true.
+
+59
+00:05:21,400 --> 00:05:23,490
+I was finally able to come back here.
+
+60
+00:05:29,630 --> 00:05:31,140
+SOUMA.
+
+61
+00:05:32,940 --> 00:05:36,260
+Have you ever imagined a world without HORROR?
+
+62
+00:05:47,070 --> 00:05:49,600
+That is when the seal on the Gate of Destruction is broken.
+
+63
+00:05:50,750 --> 00:05:53,220
+We can create such an ideal world.
+
+64
+00:05:57,340 --> 00:06:02,050
+Grudge prevents people from becoming unhappy.
+
+65
+00:06:15,700 --> 00:06:19,890
+I saved a man from HORROR.
+
+66
+00:06:21,590 --> 00:06:24,520
+As a makai order, I did what was expected of me.
+
+67
+00:06:28,360 --> 00:06:32,680
+But then the man took the lives of many people.
+
+68
+00:07:14,530 --> 00:07:15,870
+You still can't forget it?
+
+69
+00:07:21,140 --> 00:07:22,630
+I should have told you this.
+
+70
+00:07:23,170 --> 00:07:24,510
+You shouldn't go through it alone.
+
+71
+00:07:26,820 --> 00:07:28,320
+But it's my fault.
+
+72
+00:07:30,940 --> 00:07:33,660
+I wish I hadn't saved that guy from HORROR.
+
+73
+00:07:38,740 --> 00:07:42,920
+The makai order's mission is simply to protect people from HORROR.
+
+74
+00:07:44,800 --> 00:07:49,250
+We cannot predict that the person we helped will later commit a crime.
+
+75
+00:07:49,250 --> 00:07:50,940
+I fully understand that.
+
+76
+00:07:53,530 --> 00:07:56,660
+That's if the same thing happens again.
+
+77
+00:07:57,760 --> 00:07:59,740
+All I can do is watch it in silence?
+
+78
+00:08:01,940 --> 00:08:04,430
+Is there any point in saving a murderer?
+
+79
+00:08:05,600 --> 00:08:07,940
+It's the same as how we miss out on HORROR.
+
+80
+00:08:12,460 --> 00:08:13,740
+sorry.
+
+81
+00:08:14,360 --> 00:08:16,000
+MUTSUGI!
+
+82
+00:08:21,060 --> 00:08:22,590
+Let us believe in humans.
+
+83
+00:08:24,310 --> 00:08:28,590
+As long as you don't lose hope, a path will always open.
+
+84
+00:08:35,580 --> 00:08:37,540
+I'll look into the Gate of Destruction a little more.
+
+85
+00:08:49,780 --> 00:08:52,300
+The Gate of Destruction is called the oldest gate.
+
+86
+00:08:53,910 --> 00:08:55,680
+That's when the gate was opened.
+
+87
+00:08:57,180 --> 00:08:59,240
+The human world has become a world where HORROR is rampant.
+
+88
+00:09:01,310 --> 00:09:06,070
+Our ancestors made many sacrifices to seal that gate.
+
+89
+00:09:08,950 --> 00:09:13,310
+However, even now, this world is full of Grudge.
+
+90
+00:09:15,140 --> 00:09:16,610
+People don't change anything.
+
+91
+00:09:18,230 --> 00:09:19,760
+That will continue forever.
+
+92
+00:09:24,490 --> 00:09:26,530
+Can't I continue to make the world free of Grudge?
+
+93
+00:09:27,610 --> 00:09:30,200
+I tried every possible way.
+
+94
+00:09:31,190 --> 00:09:37,830
+And then I arrived at the existence of the forbidden fruit.
+
+95
+00:09:38,040 --> 00:09:39,520
+MUTSUGI!
+
+96
+00:09:40,750 --> 00:09:42,090
+Finally I understood.
+
+97
+00:09:43,100 --> 00:09:48,130
+The night of dawn, which occurs once every three years, will be the first step towards opening that path.
+
+98
+00:09:50,320 --> 00:09:53,250
+I'm going to the One-Eyed Forest.
+
+99
+00:09:56,640 --> 00:09:58,240
+There is a stone of everlasting darkness.
+
+100
+00:09:59,710 --> 00:10:01,340
+I'm going there too! no!
+
+101
+00:10:01,950 --> 00:10:03,330
+I'll go there alone.
+
+102
+00:10:03,330 --> 00:10:04,350
+Why!
+
+103
+00:10:05,130 --> 00:10:07,230
+That forest is a place where you never know what will happen.
+
+104
+00:10:08,380 --> 00:10:11,940
+What will happen to this town if we both can't return?
+
+105
+00:10:13,580 --> 00:10:14,850
+That's right.
+
+106
+00:10:18,140 --> 00:10:20,070
+you don't have to worry.
+
+107
+00:10:42,680 --> 00:10:44,490
+hang on!
+
+108
+00:10:46,080 --> 00:10:47,810
+MUTSUGI!
+
+109
+00:10:55,200 --> 00:10:57,410
+My knowledge will be useful in ABYSS.
+
+110
+00:10:59,100 --> 00:11:00,260
+Let me go there with you too!
+
+111
+00:11:22,190 --> 00:11:24,350
+This is the Gate of Destruction.
+
+112
+00:11:41,310 --> 00:11:42,920
+MUTSUGI!
+
+113
+00:11:45,140 --> 00:11:47,810
+Move forward.
+
+114
+00:11:49,910 --> 00:11:52,360
+Those who seek justice!
+
+115
+00:11:53,020 --> 00:11:58,400
+When you break this seal, your deepest desires will come true.
+
+116
+00:11:59,150 --> 00:12:01,820
+Follow your heart.
+
+117
+00:12:04,070 --> 00:12:06,790
+I'm sure you know what that means.
+
+118
+00:12:24,990 --> 00:12:26,620
+This was here!
+
+119
+00:12:26,620 --> 00:12:28,460
+MUTSUGI!
+
+120
+00:12:28,460 --> 00:12:29,960
+This was here!
+
+121
+00:12:30,830 --> 00:12:31,680
+This was here!
+
+122
+00:12:38,570 --> 00:12:41,500
+Anyone who eats it will be given omnipotent power.
+
+123
+00:12:41,500 --> 00:12:42,850
+This is the forbidden fruit.
+
+124
+00:12:44,450 --> 00:12:45,980
+It's inside this gate.
+
+125
+00:12:47,900 --> 00:12:49,320
+what are you saying?
+
+126
+00:12:50,040 --> 00:12:51,580
+We can obtain the forbidden fruit.
+
+127
+00:12:53,170 --> 00:12:55,199
+A world without HORROR will be realized.
+
+128
+00:12:57,080 --> 00:12:58,900
+GODOU!
+
+129
+00:12:58,900 --> 00:13:00,580
+Let us open the Gate of Destruction now!
+
+130
+00:13:02,540 --> 00:13:04,380
+Don't be stupid!
+
+131
+00:13:04,380 --> 00:13:07,520
+You know what to expect when you open the gate.
+
+132
+00:13:15,360 --> 00:13:17,590
+That's convenient.
+
+133
+00:13:23,100 --> 00:13:28,990
+If the gate opens, I can gather people with Grudge at once.
+
+134
+00:13:30,380 --> 00:13:32,380
+what do you do after that?
+
+135
+00:13:36,540 --> 00:13:38,310
+I'll kill them.
+
+136
+00:13:40,990 --> 00:13:43,490
+They are people who will eventually turn into HORROR.
+
+137
+00:13:43,830 --> 00:13:44,900
+I will drive them out first.
+
+138
+00:13:44,900 --> 00:13:46,220
+What's wrong with that?
+
+139
+00:13:48,090 --> 00:13:50,500
+If you have the forbidden fruit, you can do it.
+
+140
+00:13:51,230 --> 00:13:53,510
+True peace will come.
+
+141
+00:13:56,670 --> 00:13:58,850
+Utsugi, calm down.
+
+142
+00:13:59,870 --> 00:14:01,180
+You are strange now.
+
+143
+00:14:02,020 --> 00:14:04,100
+It's you who's weird.
+
+144
+00:14:11,730 --> 00:14:13,690
+MUTSUGI! Wait!
+
+145
+00:14:20,930 --> 00:14:22,860
+I won't let you have your way.
+
+146
+00:14:49,410 --> 00:14:52,650
+Zansae!
+
+147
+00:14:58,730 --> 00:15:00,100
+MUTSUGI! Stop it!
+
+148
+00:15:00,100 --> 00:15:01,300
+Don't get in my way!
+
+149
+00:15:06,440 --> 00:15:09,260
+GODOU, the seal on the Gate of Destruction is broken.
+
+150
+00:15:14,710 --> 00:15:19,440
+It will finally come true.
+
+151
+00:15:21,760 --> 00:15:23,850
+GODOU, what are you going to do?
+
+152
+00:15:24,580 --> 00:15:25,860
+That's natural.
+
+153
+00:15:29,360 --> 00:15:31,500
+Please return the armor.
+
+154
+00:15:31,770 --> 00:15:33,820
+At this rate, you will be eaten by the armor.
+
+155
+00:15:35,080 --> 00:15:40,820
+Even if this body perishes, I must prevent this opening.
+
+156
+00:15:48,320 --> 00:15:51,500
+GODOU, the seal on the Gate of Destruction is broken.
+
+157
+00:15:56,700 --> 00:16:00,780
+Finally it will happen.
+
+158
+00:16:03,740 --> 00:16:06,560
+GODOU, what are you going to do?
+
+159
+00:16:06,560 --> 00:16:07,650
+That's natural.
+
+160
+00:16:11,510 --> 00:16:13,090
+Please return the armor.
+
+161
+00:16:13,900 --> 00:16:16,810
+At this rate, you will be eaten by the armor.
+
+162
+00:16:16,810 --> 00:16:23,070
+Even if this body perishes, I must prevent this opening.
+
+163
+00:16:33,030 --> 00:16:34,860
+GODOU!
+
+164
+00:17:00,330 --> 00:17:04,140
+ZANGO's armor quickly absorbed the evil energy of the Gate of Destruction.
+
+165
+00:17:05,020 --> 00:17:07,520
+The armor descended, still holding the gate.
+
+166
+00:17:09,079 --> 00:17:10,989
+This was three years ago.
+
+167
+00:17:17,890 --> 00:17:19,410
+GODOU, did this happen because of you?
+
+168
+00:17:21,380 --> 00:17:24,030
+I didn't expect it to turn out like this.
+
+169
+00:17:28,089 --> 00:17:30,019
+But that was unavoidable.
+
+170
+00:17:33,170 --> 00:17:38,050
+Because GODOU rejected a peaceful world.
+
+171
+00:17:38,830 --> 00:17:40,730
+Do not be silly!
+
+172
+00:17:40,730 --> 00:17:43,870
+I want you to make a different decision than GODOU.
+
+173
+00:17:47,010 --> 00:17:51,620
+It also means making your wishes come true.
+
+174
+00:18:02,180 --> 00:18:04,400
+what is your wish?
+
+175
+00:18:05,880 --> 00:18:10,200
+Is it to protect people by wearing the same ZANGO armor as GODOU?
+
+176
+00:18:15,360 --> 00:18:18,120
+Do you want to be recognized by GODOU?
+
+177
+00:18:21,940 --> 00:18:26,580
+If we open the seal on the Gate of Destruction, we can protect many people.
+
+178
+00:18:28,060 --> 00:18:33,100
+If that happens, GODOU will definitely recognize you.
+
+179
+00:18:33,100 --> 00:18:34,200
+shut up!
+
+180
+00:18:34,930 --> 00:18:37,740
+SOUMA, undo your armor!
+
+181
+00:18:37,790 --> 00:18:39,730
+Prove your strength now!
+
+182
+00:18:40,590 --> 00:18:43,200
+Inherit ZANGO's armor!
+
+183
+00:18:55,010 --> 00:18:59,200
+Follow your wishes obediently.
+
+184
+00:19:11,840 --> 00:19:13,660
+SOUMA, are you okay?
+
+185
+00:19:14,880 --> 00:19:16,580
+why did you come here?
+
+186
+00:19:17,460 --> 00:19:19,190
+I was able to follow in his footsteps.
+
+187
+00:19:31,910 --> 00:19:34,640
+What did you do to SOUMA?
+
+188
+00:19:45,660 --> 00:19:47,070
+SOUMA!
+
+189
+00:19:50,540 --> 00:19:52,380
+SOUMA!
+
+190
+00:20:04,290 --> 00:20:06,390
+I will take off my armor to protect the world.
+
+191
+00:20:15,580 --> 00:20:16,610
+SOUMA!
+
+192
+00:20:56,230 --> 00:21:01,620
+The role of RYUGA DOGAI is played by WATARU KURIYAMA.
+
+193
+00:21:01,620 --> 00:21:08,050
+ON NAKANO will play the role of SHIRAHANE SOUMA, and MIKO NAKAZAWA will play the role of KOYORI.
+
+194
+00:21:08,050 --> 00:21:10,460
+The role of the seducer is SARA OSHINO.
+
+195
+00:21:10,460 --> 00:21:12,660
+The role of Light Slash Knight ZANGO is played by YUGO FUJII.
+
+196
+00:21:12,660 --> 00:21:15,460
+The role of IRVA is played by YUKASUZUMURAD.
+
+197
+00:21:15,460 --> 00:21:18,010
+The role of MUTSUGI is played by YUKA KUROTANI.
+
+198
+00:21:18,010 --> 00:21:22,180
+The role of SHIRAHANE GODOU is played by MASATO HAGIWARA.
+
+199
+00:21:22,180 --> 00:21:27,720
+The original author is KEITA AMAMIYA.
+
+200
+00:21:27,720 --> 00:21:34,580
+The executive producer is KIYOTAKA NINOMIYA.
+
+201
+00:21:34,580 --> 00:21:36,120
+The plan and producer is Tanaka Aya.
+
+202
+00:21:36,120 --> 00:21:37,860
+The producers are Higa Ichiro and SYUHEI OKABAYASHI.
+
+203
+00:21:37,860 --> 00:21:39,330
+Assistant producers are KENTA YAMAOKA and KENTARO KODAIRA.
+
+204
+00:21:39,330 --> 00:21:40,830
+Casting is MASASHI YAMAGUCHI.
+
+205
+00:21:40,830 --> 00:21:42,830
+They are cinematography, lighting, sound recording, art, editing, recording, and VFX supervisors.
+
+206
+00:21:42,830 --> 00:21:44,830
+Edited by MAYUMI KOMORI. The assistant director is MIRA ABE.
+
+207
+00:21:44,830 --> 00:21:46,830
+The person in charge of production is HIROYUKI AKUNE.
+
+208
+00:21:46,830 --> 00:21:49,130
+The stylist is KUNIHIKO KURODA.
+
+209
+00:21:49,130 --> 00:21:50,130
+The costume design is by YOU-KO.
+
+210
+00:21:50,130 --> 00:21:51,130
+The magic tools and magic swords are manufactured by NOBORU KAWAKAMI.
+
+211
+00:21:51,130 --> 00:21:52,130
+Special modeling is by AKITERU NAKATA, and HORROR design is supervised by JIRO.
+
+212
+00:21:52,130 --> 00:21:56,130
+They are assistants in direction, cinematography, lighting, sound recording, art, and decoration.
+
+213
+00:21:56,130 --> 00:21:57,470
+The technical producer is HIROSHI INAMURA.
+
+214
+00:21:57,470 --> 00:21:59,040
+ETSUKO HAKAMADA was in charge of props, and TSUBASA SAKAI was in charge of decorations.
+
+215
+00:21:59,040 --> 00:22:01,600
+They are stylist assistants and makeup assistants.
+
+216
+00:22:01,600 --> 00:22:02,390
+Costume production is SHIZUKA ONDA.
+
+217
+00:22:02,390 --> 00:22:04,870
+They are in charge of studio sales, art progress, equipment, and painting.
+
+218
+00:22:04,870 --> 00:22:10,690
+They are special modeling and HORROR costume production staff, special makeup and modeling production.
+
+219
+00:22:10,690 --> 00:22:12,690
+The action coordinator is KAZUSADA SAKUMA.
+
+220
+00:22:12,690 --> 00:22:17,180
+They are stuntmen.
+
+221
+00:22:17,180 --> 00:22:19,680
+They are OMNIBUS JAPAN.
+
+222
+00:22:19,680 --> 00:22:22,030
+They are DRAWIZ.
+
+223
+00:22:22,030 --> 00:22:23,690
+They are D/VISUAL.
+
+224
+00:22:23,690 --> 00:22:24,830
+They are FINE WAVE.
+
+225
+00:22:24,830 --> 00:22:27,110
+They are TRIPOINT and VILLARD.
+
+226
+00:22:27,110 --> 00:22:29,560
+Sound design is by HIROKI KATO.
+
+227
+00:22:29,560 --> 00:22:32,920
+The OP director is YOSUKE ASADA.
+
+228
+00:22:32,920 --> 00:22:35,840
+The music producer is SYUNJI INOUE.
+
+229
+00:22:35,840 --> 00:22:37,250
+The ending theme song is Immortal Shura no Namida.
+
+230
+00:22:37,250 --> 00:22:38,710
+The singer is JAM PROJECT.
+
+231
+00:22:38,710 --> 00:22:40,000
+The production coordinator is NAO ARISAWA.
+
+232
+00:22:40,000 --> 00:22:44,350
+The production desk is RINA WATANABE.
+
+233
+00:22:44,350 --> 00:22:49,390
+These are art, costume, makeup and extras subcontractors.
+
+234
+00:22:49,390 --> 00:22:51,200
+The official site is SATOSHI HOSHINO.
+
+235
+00:22:51,200 --> 00:22:55,350
+Graphic design is by SATOSHI FUNAYAMA.
+
+236
+00:22:55,350 --> 00:23:01,370
+Special cooperation is provided by SANSEI.
+
+237
+00:23:01,370 --> 00:23:07,370
+The production and production is TOHOKU SHINSHA.
+
+238
+00:23:07,370 --> 00:23:12,740
+The script was written by YOSHIKATSU KODAMA, and the script was assisted by YOSHIKATSU KIMURA.
+
+239
+00:23:12,740 --> 00:23:19,280
+The action director is MASAKI SUGIMURA.
+
+240
+00:23:19,280 --> 00:23:24,680
+The director is YOSHIKATSU KIMURA.
+
+241
+00:23:25,100 --> 00:23:27,670
+This story is a fiction.
+
+242
+00:23:27,670 --> 00:23:29,970
+It is completely unrelated to any real person, organization, or incident.
+
+243
+00:23:30,750 --> 00:23:34,560
+SOUMA, show more of your Grudge!
+
+244
+00:23:34,750 --> 00:23:36,220
+please! Please stop it!
+
+245
+00:23:36,710 --> 00:23:38,370
+Overcome the darkness!
+
+246
+00:23:38,370 --> 00:23:40,060
+You are steel!
+
